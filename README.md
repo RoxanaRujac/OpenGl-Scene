@@ -12,7 +12,7 @@
 6. [Future Improvements](#future-improvements)  
 
 ## Project Overview  
-This project is a **3D graphical scene** created using **C** and **OpenGL**, depicting a **deserted island** with various interactive elements. The scene includes environmental effects such as **fog, rain, dynamic lighting, and real-time shadows**, and allows users to explore and modify rendering settings for an immersive experience.  
+This project is a **3D graphical scene** created using **C++** and **OpenGL**, depicting a **deserted island** with various interactive elements. The scene includes environmental effects such as **fog, rain, dynamic lighting, and real-time shadows**, and allows users to explore and modify rendering settings for an immersive experience.  
 
 ## Technologies Used  
 - **C** – Core programming language for logic and rendering.  
