@@ -57,5 +57,5 @@ This project is a **3D graphical scene** created using **C++** and **OpenGL**, d
 - **Improved Shadows** with soft shadowing techniques.  
 - **Enhanced Navigation** with better path-following for the automatic tour mode.  
 
-This project demonstrates fundamental **graphics programming concepts** and serves as a practical application of **real-time rendering techniques** in OpenGL. 🚀  
+This project demonstrates fundamental **graphics programming concepts** and serves as a practical application of **real-time rendering techniques** in OpenGL.   
 
